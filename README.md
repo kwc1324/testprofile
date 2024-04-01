@@ -8,6 +8,7 @@
 <table>
 <tr>
 <td>
+  
 - **Weekly Diary Table**
 > 주간 기록 링크
 | Week  | Link |
@@ -19,6 +20,7 @@
 <br>
 </td>
 <td>
+  
 - **Projects**
 > 프로젝트 별 계획표 링크
 | Project Name  | Link |
@@ -29,6 +31,7 @@
 <br>
 </td>
 <td>
+  
 - **Team Repository**
 > 프로젝트 별 레포지토리 링크
 | Project Name  | Link |
