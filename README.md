@@ -18,7 +18,6 @@
 | Week 2  | [@바로가기](https://inu-ese-capstone-design-team-ysn.github.io/weekly%E3%85%A4diary/Weekly-Diary(2%EC%A3%BC%EC%B0%A8)/)  |
 | Week 3  | [@바로가기](https://inu-ese-capstone-design-team-ysn.github.io/weekly%E3%85%A4diary/Weekly-diary(3%EC%A3%BC%EC%B0%A8)/)  |
 <br>
-
 </td>
 <td>
 
@@ -31,6 +30,8 @@
 | Calibration Project  | [@Calibration](https://github.com/orgs/inu-ese-capstone-design-team-YSN/projects/2)  |
 
 <br>
+</td>
+<td>
 
 - **Team Repository**
 > 프로젝트 별 레포지토리 링크
