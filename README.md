@@ -11,6 +11,7 @@
   
 - **Weekly Diary Table**
 > 주간 기록 링크
+
 | Week  | Link |
 | ------------- | ------------- |
 | Week 1  | [@바로가기](https://inu-ese-capstone-design-team-ysn.github.io/weekly%E3%85%A4diary/Weekly-Diary(1%EC%A3%BC%EC%B0%A8)/)  |  
@@ -23,6 +24,7 @@
   
 - **Projects**
 > 프로젝트 별 계획표 링크
+
 | Project Name  | Link |
 | ------------- | ------------- |
 | Clustering Project  | [@Clustering](https://github.com/orgs/inu-ese-capstone-design-team-YSN/projects/11)  |
@@ -34,6 +36,7 @@
   
 - **Team Repository**
 > 프로젝트 별 레포지토리 링크
+
 | Project Name  | Link |
 | ------------- | ------------- |
 | Clustering Repository | [@Repo](https://github.com/inu-ese-capstone-design-team-YSN/clustering)  |
