@@ -1,4 +1,3 @@
-https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displayBackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
